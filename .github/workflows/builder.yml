@@ -5,6 +5,7 @@ on:
     types: [started]
     
 env:
+  ROM_LINK: your rom's direct link
   ROM_LINK: https://drive.google.com/uc?export=download&id=1fSmGaXbdNPvzjAuNupBROJYP1cRQ7h-g
   ROM_TYPE: Generic
   BUILD_AB: true
