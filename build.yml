@@ -1,9 +1,3 @@
 Date: 11012025
 Public
 Generic System Image (GSI) for all devices
-ROM_LINK: https://drive.google.com/uc?export=download&id=1fSmGaXbdNPvzjAuNupBROJYP1cRQ7h-g   #direct link
-ROM_TYPE: Generic   #ima pretend that this is a VOS rom
-BUILD_AB: true
-BUILD_AONLY: false   #not building A only
-ROM_AB: rising_AB_ruby.7z
-ROM_AONLY: A.7z
